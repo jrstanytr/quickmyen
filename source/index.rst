@@ -1,7 +1,8 @@
 Software Installation Guide
 ---------------------------
 
-
+Already Bought Quicken? Here’s How to Quickly and Install It
+Are you ready to take control of your finances? Quicken simplifies personal finance management like never before. If you've already purchased Quicken and are eager to dive in, you're in the right place! Let's explore how to quickly down-load and install this essential tool so you can start enjoying all its benefits sooner rather than later.
 
 Downloading the Installer
 -------------------------
