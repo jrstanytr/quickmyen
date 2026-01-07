@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'readthedocs'
+project = 'Documentation'
 copyright = '2025, NA'
-author = 'NA'
+author = 'jrstanytr'
 release = '1.0'
 
 html_title = "Quicken Contact Information"
