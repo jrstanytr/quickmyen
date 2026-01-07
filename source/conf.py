@@ -11,7 +11,7 @@ copyright = '2025, NA'
 author = 'NA'
 release = '1.0'
 
-html_title = "How to contact Quicken?"
+html_title = "contact Quicken"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
