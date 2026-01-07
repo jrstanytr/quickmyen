@@ -11,7 +11,7 @@ copyright = '2025, NA'
 author = 'NA'
 release = '1.0'
 
-html_title = "Already Bought Quicken? Here’s How to Quickly and Install It"
+html_title = "Quicken Software Installation"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
